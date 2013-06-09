@@ -1,4 +1,4 @@
 Bjarne-Stroustrup-Principles-and-Practice
 =========================================
 
-Exercises from Principles and Practice Using C++ by Bjarne Stroustrup
+My solutions to exercises from Principles and Practice Using C++ by Bjarne Stroustrup
